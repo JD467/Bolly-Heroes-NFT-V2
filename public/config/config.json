@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xD50BEA448f1BbC33943eEc47b389f09c76C29e88",
+  "SCAN_LINK": "https://polygonscan.com/token/0xD50BEA448f1BbC33943eEc47b389f09c76C29e88",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Bolly Heroes NFT",
+  "SYMBOL": "BHNFT",
+  "MAX_SUPPLY": 87,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bolly-heroes-nft-v2",
+  "SHOW_BACKGROUND": true
+}
